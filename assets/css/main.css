@@ -1,0 +1,19 @@
+
+
+
+
+
+
+ body { background-color: white; } 
+.alignleft{ float:left; margin-left:5px; color:black; font-weight:bold; font-size:15px; } 
+.alignright{ float:right; margin-right:10px; color:blue; font-size:15px; font-weight:normal ; } 
+h4{ margin-left:5px; color:black; font-weight:bold; font-size:15px; } 
+.nta { position:relative ; overflow:hidden ; } 
+div.scrollmenu { box-shadow:0 5px 5px #000 background-color: white; overflow: auto; white-space: nowrap; position:relative ; overflow-y:hidden ; } 
+div.scrollmenu a { display: inline-block; color: white; text-align:center; padding: 4px; text-decoration: none; } 
+div.scrollmenu a:hover { background-color: black; } 
+.cen{ position:relative ; text-align:center; color:white; } 
+.centered{ font-size:14px; font-weight:bold; position:absolute ; top:80%; left: 50%; transform:translate(-50%,-50%) } 
+.cent{ font-size:auto; position:absolute ; top:95%; left: 50%; transform:translate(-50%,-50%) } 
+.nt{ width: 150px; border-radius: 5px; height: 80px ; z-index:1;box-shadow:0 1px 5px #000 } 
+.mnt{ width: 100px; border-radius: 2px; height: 100px; } 
